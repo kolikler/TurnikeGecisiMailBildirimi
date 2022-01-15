@@ -1,0 +1,2 @@
+# TurnikeGecisiMailBildirimi
+TurnikeGeçişiMailBildirimi
